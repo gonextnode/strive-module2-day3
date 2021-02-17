@@ -1,0 +1,73 @@
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+body {
+  background-color: #f4f4f4;
+}
+
+.spacer {
+  height: 150px;
+}
+
+h1,
+h2 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.522);
+  padding: 10px;
+  max-width: 500px;
+}
+
+nav {
+  margin-bottom: 0;
+}
+
+nav a {
+  margin: 0 10px;
+}
+
+.jumbotron {
+  margin-top: 0;
+  padding: 0;
+  cursor: pointer;
+  background-image: url('../assets/jumbatron.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.jumbotron h2 {
+  padding: 10px;
+  font-size: 2rem;
+  background-color: rgba(0, 0, 0, 0.522);
+  max-width: 500px;
+}
+
+.header-text-wrapper {
+  position: relative;
+  top: 150px;
+  left: 50px;
+}
+
+.card {
+  padding: 0;
+  cursor: pointer;
+  box-shadow: 10px 10px 2px 1px rgba(217, 217, 218, 0.145);
+  transition: all 0.3s ease-out;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 15px 15px 2px 1px rgba(240, 240, 240, 0.172);
+}
+
+.card:hover h5 {
+  color: rgb(53, 158, 177);
+}
+
+.card img {
+  width: 100%;
+}
