@@ -4,7 +4,7 @@
 
 > One pager implementing Bootstrap 5 layout and grid system. Also to use standard components and customize using bootstraps css classes.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 Our first pairs programming assignment where we were partnered with another class mate and asked to take turns as the coder and lead.
 
