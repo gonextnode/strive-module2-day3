@@ -16,7 +16,7 @@ Our first pairs programming assignment where we were partnered with another clas
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo](https://strive-module2-day2.netlify.app)
 
 ## Getting Started
 
